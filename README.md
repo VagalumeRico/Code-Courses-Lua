@@ -3,7 +3,7 @@ Um curso de Lua, baseado no meu conhecimento.
 
 ## ・Olá a todos!
 
-### ・Para quem não me conhece, sou um dos Administradores e fundadores da `Code Help`: Comunidade de Programadores, Designers e Modeladores 3D que conta com mais de **6 Mil** membros.
+### ・Para quem não me conhece, sou um dos Administradores e fundadores da `Code Help`: Comunidade de Programadores, Designers e Modeladores 3D que conta com mais de **10 Mil** membros.
 
 ### ・Irei realizar com vocês o primeiro curso desta nova comunidade, sobre a linguagem de programação **brasileira** conhecida como `LUA`.
 
