@@ -13,7 +13,7 @@ Um curso de Lua, baseado no meu conhecimento.
 
 # Link para vocês compartilharem o servidor:
 
-[Nosso Discord](https://discord.gg/VwTpXbqtFr)
+# [Nosso Discord](https://discord.gg/VwTpXbqtFr)
 
 # *Apoie meu projeto, doando qualquer valor:*
 
