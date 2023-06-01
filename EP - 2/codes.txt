@@ -1,4 +1,0 @@
-https://onecompiler.com/lua/3zabprt66 -- Code If & Else
-https://onecompiler.com/lua/3za5wt5ry -- Code For loop 
-https://onecompiler.com/lua/3za5x7xz7 -- Code While loop
-https://onecompiler.com/lua/3za5xdk52 -- Code Function
